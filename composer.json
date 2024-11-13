@@ -1,0 +1,9 @@
+{
+  "name": "xenan/sitemap-test",
+  "license": "MIT",
+  "require": {
+    "php": "^8.2",
+    "xenan1/sitemap-generator": "^1.0.1",
+    "ext-simplexml": "*"
+  }
+}
